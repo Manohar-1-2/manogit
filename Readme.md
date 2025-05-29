@@ -16,7 +16,5 @@ Manogit currently supports:
 - `checkout` – Switch between commits 
 - `branch` – Create or switch branches 
 
-> ⚠️ Manogit is not a full replacement for Git. It’s meant for learning and experimentation.
-
 ---
 
